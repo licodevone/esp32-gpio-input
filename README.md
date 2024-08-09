@@ -10,6 +10,10 @@ that copies the project to user specified path and set it's name. For more infor
 
 
 
+https://github.com/user-attachments/assets/d58f7548-3e15-480c-a40c-349f6020518e
+
+
+
 ## How to use example
 We encourage the users to use the example as a template for the new projects.
 A recommended way is to follow the instructions on a [docs page](https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/build-system.html#start-a-new-project).

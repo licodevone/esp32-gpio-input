@@ -11,7 +11,7 @@ that copies the project to user specified path and set it's name. For more infor
 https://www.youtube.com/watch?v=1R74bIQsdyk
 
 ## How to use example
-
+https://www.youtube.com/watch?v=1R74bIQsdyk
 
 We encourage the users to use the example as a template for the new projects.
 A recommended way is to follow the instructions on a [docs page](https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/build-system.html#start-a-new-project).

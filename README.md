@@ -8,9 +8,7 @@
 This is the simplest buildable example. The example is used by command `idf.py create-project`
 that copies the project to user specified path and set it's name. For more information follow the [docs page](https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/build-system.html#start-a-new-project)
 
-https://github.com/user-attachments/assets/c72fa504-6d42-47aa-b6d6-098e9b2413f2
-
-https://github.com/user-attachments/assets/05191174-c6f3-4cd0-bbea-aa0a71691f3d
+https://www.youtube.com/watch?v=1R74bIQsdyk
 
 ## How to use example
 

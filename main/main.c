@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> // c language input and output libraries
 // freeRTOS Libraries
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
@@ -18,8 +18,8 @@ static const char *TAG = "BUTTON TEST: ";   //for Log messages
 void app_main(void)
 {
     //local variables
-    bool button_state1 = 1;  //variable to store button state
-    bool button_state2 = 0;  //variable to store button state
+    bool button_state1 = 1;  //variable to store button 1 state
+    bool button_state2 = 0;  //variable to store button 2 state
     bool i = 0;             //variable to store LED state
 
     //configure LED_PIN_1 GPIO as input
